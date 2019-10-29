@@ -24,7 +24,7 @@ if (! empty($productArray)) {
                         id="add_<?php echo $productArray[$k]["code"]; ?>"
                         class="btnAddAction cart-action"
                         onClick="cartAction('add','<?php echo $productArray[$k]["code"]; ?>')">
-                        <img src="images/add-to-cart.png" />
+                        <img src="add-to-cart.png" />
                     </button>
                     <input type="text"
                         id="qty_<?php echo $productArray[$k]["code"]; ?>"
