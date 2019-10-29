@@ -8,21 +8,21 @@ class Product
             'id' => '1',
             'name' => '3D Camera',
             'code' => '3DcAM01',
-            'image' => 'product-images/camera.jpg',
+            'image' => 'product-camera.jpg',
             'price' => '1500.00'
         ),
         "USB02" => array(
             'id' => '2',
             'name' => 'External Hard Drive',
             'code' => 'USB02',
-            'image' => 'product-images/external-hard-drive.jpg',
+            'image' => 'product-external-hard-drive.jpg',
             'price' => '800.00'
         ),
         "wristWear03" => array(
             'id' => '3',
             'name' => 'Wrist Watch',
             'code' => 'wristWear03',
-            'image' => 'product-images/watch.jpg',
+            'image' => 'product-watch.jpg',
             'price' => '300.00'
         )
     );
